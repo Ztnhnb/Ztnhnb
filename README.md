@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Ztnhnb/Ztnhnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+主页访问人数:
+
+![Visitor Count](https://profile-counter.glitch.me/Ztnhnb/count.svg)
+
+![](https://github-readme-stats.vercel.app/api?username=Ztnhnb&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ztnhnb&layout=compact&theme=tokyonight)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Ztnhnb&theme=dracula)
